@@ -1,6 +1,6 @@
 # Data analysis for newbies: the importance of thinking twice
 
-This is a project based on a real technical test for a company. A short introduction of the background of the company and the expected objectives is given below according to the original statement of the exercise, although the purpose of this project will be to further analyze the data and to realise where the catches are.
+This is a project based on a real technical test for a company. A short introduction of the background of the company and the expected objectives is given below according to the original statement of the exercise, although the purpose of this project will be to further analyze the data and to realise where some of the catches actually are.
 
 ## Introduction 🚕
 
@@ -16,12 +16,12 @@ Their business identity was initially based on the use of luxury cars fueled by 
 
 Can you help them finding the best fuel?  
 
-###### The company provides you with a .csv / .xlsx containing information about several trips and their correspondent fuel consumption.
+###### The company provides you with a [.xlsx](https://github.com/TheIronhidex/walkthrough-project/blob/main/data/measurements2.xlsx) file containing information about several trips and their correspondent fuel consumption.
 
 
 ## Walkthrough 🚩
 
-The project consists of (1) a notebook with all the code and comments about the steps that were followed, and (2) a report showing the conclusions [currently in progress].
+At this stage, the project consists of (1) a notebook with all the code and comments about the steps that were followed, and (2) a report showing the conclusions [currently in progress].
 
 
 
